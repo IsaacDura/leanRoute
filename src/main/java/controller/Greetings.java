@@ -13,7 +13,7 @@ package controller;
     @Accessors
 class Greeting {
     private String id;
-    private String content;
+    private String content1;
 }
 
 
