@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <Context antiJARLocking="true" path="/REST_Spring4MVC"/>
+=======
+<Context antiJARLocking="true" path="/restLeanRouteService"/>
+>>>>>>> 0e5d24758da03ac45dea9a66f34d89681b645394
